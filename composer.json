@@ -1,0 +1,21 @@
+{
+    "name": "travis/dump",
+    "description": "A PHP function for dumping values for debugging.",
+    "homepage": "https://bitbucket.org/swt83/php-dump",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Scott Travis",
+            "email": "scott.w.travis@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "files": [
+            "src/dump.php"
+        ]
+    },
+    "minimum-stability": "dev"
+}
