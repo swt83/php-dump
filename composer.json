@@ -1,7 +1,6 @@
 {
     "name": "travis/dump",
     "description": "A PHP function for dumping values for debugging.",
-    "homepage": "https://bitbucket.org/swt83/php-dump",
     "license": "MIT",
     "authors": [
         {
